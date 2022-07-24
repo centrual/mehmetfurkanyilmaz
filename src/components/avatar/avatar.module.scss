@@ -1,0 +1,10 @@
+@import "../../assets/styles/commonStyles";
+
+.avatar {
+  width: 12.5rem;
+  height: 12.5rem;
+  border-radius: 50%;
+  display: block;
+  border: 1px solid $color-grey;
+  box-sizing: border-box;
+}

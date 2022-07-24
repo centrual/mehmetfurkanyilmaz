@@ -1,0 +1,15 @@
+@import "../../assets/styles/commonStyles";
+
+.socialButtonLink {
+  text-decoration: none;
+  outline: none;
+  border: none;
+
+  .socialButton {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: $color-white;
+  }
+}
+
+
